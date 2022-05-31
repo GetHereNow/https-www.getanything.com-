@@ -1,0 +1,19 @@
+h1{
+	color:blue;
+	font-family:Lucida Console;
+	font-size:40px;
+}
+
+body{
+	background-image:url("file:///C:/Users/ARUSH/Desktop/Website%20Creating/ocean-background-3995567_1280[1].jpg");
+	background-size: 200% 170%;
+	border:25px solid gold;
+	padding-left:0;
+}
+
+p{
+	color:red;
+	font-family:Elephant;
+	font-size:20px;
+
+}
